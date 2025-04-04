@@ -4,7 +4,7 @@ Hi I'm Julian, currently studying computer science at the Technical University o
 
 You can find most of my private projects here on my github. I also write blog posts about the cooler (and more recent projects) here: [blog.julianlimburg.zip](https://blog.julianlimburg.zip)
 
-Games and grafical Stuff:
+Grafical Stuff:
 - [Unity Water Physics](https://github.com/nailuj05/FusionWater)
 - [Unity XR Framework (with physically simulated interactions and body](https://github.com/nailuj05/FusionXR)
 - [WebGL Verlet Integration](https://nailuj05.github.io/VerletIntegration/)
