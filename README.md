@@ -10,6 +10,7 @@ Games and grafical Stuff:
 - [WebGL Verlet Integration](https://nailuj05.github.io/VerletIntegration/)
 - [Yin Yang Ping Pong](https://github.com/nailuj05/ying-yang-ping-pong)
 - [Bunch of cool shaders and stuff](https://github.com/nailuj05/learning-shaders)
+- [Crossplatform Image Masking Tool](https://github.com/nailuj05/tru-masker)
 
 Compilers and Low-Level Programming:
 - [Stackbased Programming Language - Klaus](https://github.com/nailuj05/klaus)
