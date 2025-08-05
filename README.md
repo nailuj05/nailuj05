@@ -17,6 +17,7 @@ Compilers and Low-Level Programming:
 - [Bootstrapped Build System - Noob](https://github.com/nailuj05/noob)
 
 Web related projects:
+- [GeoGuessr-Style Game for my University](https://tum-guessr.de)
 - [Serverside Rendering for my blog](https://github.com/nailuj05/blog)
 - [Analytics and Visit Tracking (also used in my blog)](https://github.com/nailuj05/stats-tracking)
 - [Bot for pushing commits to Artemis (University related)](https://github.com/nailuj05/ArtemisBot)
